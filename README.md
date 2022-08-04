@@ -35,7 +35,7 @@ rasa train --config config.yml --domain domain.yml --data data/
 ```
 
 ### Unity
-- The Unity project was made using 2019.3 hence is the recommended version.
+- The Unity project was made using 2019.4.17f1 hence is the recommended version.
 - Open Unity Hub and choose "Add" from top right corner.
 - Select the Unity project folder located in `Rasa-Unity/Unity/Rasa`.
 - Press play after running the Rasa server.
